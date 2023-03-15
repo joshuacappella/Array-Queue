@@ -5,7 +5,7 @@
 package com.joshuacappella.array.queue;
 
 /**
- * This exception is for the attempted enqueuing of different types of objects
+ * This exception is for the attempted enqueuing of null input
  * @author Joshua Cappella
  */
 public class InvalidDataException extends ArrayStoreException {
